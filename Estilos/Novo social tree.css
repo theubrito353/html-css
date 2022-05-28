@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@300 & display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'poppins'
+    }
+body{background-color: #FAF7FD;}
+.titulo{
+    text-align: center;
+    color: #BB99DD;
+    text-align: center;
+}
+.imagem img{
+    border-radius: 50%;
+    max-width: 200px;
+    border: 3px solid #BB99DD;
+    
+        }
+        .imagem{
+            text-align: center;
+            border: 8px #BB99DD;
+        }
+.descrição{
+    color: #BB99DD;
+    text-align: center;
+}  
+
+.links{
+border:3px  solid #BB99DD;
+border-width: 2px;
+text-align: center;
+font-weight: normal;
+border-radius: 7px;
+padding: 10px;
+margin: 0px 630px;
+}
+.links2{
+    border:3px  solid #BB99DD;
+border-width: 2px;
+text-align: center;
+font-weight: normal;
+border-radius: 7px;
+padding: 10px;
+margin: 0px 630px;
+}
+
+.links3{
+    border:3px  solid #BB99DD;
+border-width: 2px;
+text-align: center;
+font-weight: normal;
+border-radius: 7px;
+padding: 10px;
+margin: 0px 630px;
+}
+.links4{
+    border:3px  solid #BB99DD;
+border-width: 2px;
+text-align: center;
+font-weight: normal;
+border-radius: 7px;
+padding: 10px;
+margin: 0px 630px;
+}
+.icones{
+    text-align: center;
+    padding: 10px;
+        }
+.links a{
+    color: #BB99DD;
+}
+.links2 a{
+    color: #BB99DD;
+}
+.links3 a{color: #BB99DD;}
+.links4 a{color: #BB99DD;}
